@@ -1,0 +1,5 @@
+module load ncarenv
+module load intel/16.0.3
+module load netcdf
+module load ncarcompilers
+module load mpt/2.15f

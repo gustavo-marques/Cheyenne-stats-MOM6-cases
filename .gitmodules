@@ -1,0 +1,3 @@
+[submodule "MOM6-cases"]
+	path = MOM6-cases
+	url = ./MOM6-cases/
